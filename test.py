@@ -10,7 +10,7 @@ def es_primo(numero):
             primo = False
     return True 
     
-  # aquí debes implementar tu código
+  # aquí debes implementar tu código asdad
   # modificando la variable primo 
   # (no modifiques nada de las lineas anteriores)
   return primo
